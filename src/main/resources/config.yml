@@ -1,0 +1,22 @@
+db:
+  host: ""
+  user: ""
+  password: ""
+  db-name: "Test_Skyblock"
+  port: 3306
+
+tp:
+  spawn:
+    world: "world"
+    x: -121.5
+    y: 65.0
+    z: 62.5
+    yaw: -90.0
+    pitch: 0.0
+
+style:
+  grade: "[{GRADE}§f] {NAME}: {MESSAGE}"
+
+default:
+  grade: "default"
+  money: 200

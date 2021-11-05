@@ -1,0 +1,5 @@
+name: SkyBlock
+version: 1.0.00
+author: Nilowk
+main: fr.nilowk.skyblock.Main
+api-version: 1.16
